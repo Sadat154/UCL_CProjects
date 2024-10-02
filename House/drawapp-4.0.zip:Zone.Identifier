@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://moodle.ucl.ac.uk/
+HostUrl=https://ucl-eu-west-2-moodle-sitedata.s3.eu-west-2.amazonaws.com/b5/76/b5761f72edfef093ca43001e194dc4f30460f260?response-content-disposition=attachment%3B%20filename%3D%22drawapp-4.0.zip%22&response-content-type=application%2Fzip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA47YHZF637GKGWUJC%2F20241002%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241002T101422Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21578&X-Amz-Signature=e5ea45b43f1a4ad3bf5015a080b8424cab0999317f4d68ee1d425b55803eb6d4
