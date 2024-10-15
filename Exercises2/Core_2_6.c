@@ -54,35 +54,3 @@ int main(void) {
 
 
 
-
-
-
-// {
-//             if (spaceCount < column) {
-//                 printf("*");
-//                 asteriskCounter++;
-//             }
-
-//             else {
-//                 printf(" ");
-//             }
-            
-//             if (asteriskCounter == 5)
-//             {
-//                 asteriskCounter = 0;
-//                 break;
-//             }
-            
-//         }
-
-
-//         printf("\n");
-//         if (spaceCount < lengthChoice && firstHalf == 0)
-//         {
-//             spaceCount++;
-//         }
-        
-//         else {
-//             firstHalf = 1;
-//             spaceCount--;
-//         }
