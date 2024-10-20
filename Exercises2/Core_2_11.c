@@ -10,7 +10,7 @@ int main (void) {
     evenSquares();
     printf("\n");
     primeNumbers();
-
+    return 0;
 }
 
 

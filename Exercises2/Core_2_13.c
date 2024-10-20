@@ -13,7 +13,7 @@ int main(void) {
 
         drawRect(x+200,y+200,1,1);
 
-        
+        return 0;
     }
     
     

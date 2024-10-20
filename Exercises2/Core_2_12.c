@@ -87,6 +87,6 @@ int main (void) {
     drawSinOrCos(translation);
     drawTan();
 
-
+    return 0;
 }
 
