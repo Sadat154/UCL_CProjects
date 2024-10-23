@@ -31,7 +31,7 @@ int main(void) {
         }
     }
 
-    //Do the twin prime checks here
+    
     
     
 
