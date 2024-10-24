@@ -32,6 +32,43 @@ int main(void) {
     }
 
     
+    for (int i = 0; i < count; i++)
+    {
+        //printf("%d ", array[i]);
+        if (i == 0) {
+            if (array[i+1] - array[i] <= 2)
+            {
+                twinPrime[count2] = array[i];
+                count2++; 
+            }
+        }    
+        
+        // else if (i == (count-1)) {
+        //     if (array[i] - array[i-i] <= 2)
+        //     {
+        //         twinPrime[count2] = array[i];                
+        //         count2++; 
+        //     }
+        // }   
+        else {
+            
+            if ((array[i] - array[i-1] <= 2) || (array[i+1] - array[i] <= 2))
+            {
+                twinPrime[count2] = array[i];
+                count2++; 
+            }
+        }
+
+        
+    }
+    
+    for (int i = 0; i < count2-1; i++)
+    {
+        printf("%d ", twinPrime[i]);
+    }
+    
+
+    return 0;
     
     
 
